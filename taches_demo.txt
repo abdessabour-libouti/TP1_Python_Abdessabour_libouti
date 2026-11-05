@@ -1,2 +1,0 @@
-- Réviser la POO
-- Faire le TP 1
